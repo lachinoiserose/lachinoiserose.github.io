@@ -130,7 +130,7 @@ params:
       name: "Curriculum Vitae"
       url: "CV_EJL.pdf"
       download: true
-      newPage: true
+      newPage: false
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
