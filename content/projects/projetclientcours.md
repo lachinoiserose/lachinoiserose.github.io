@@ -33,7 +33,7 @@ Notre équipe de trois personnes s'est rencontrée pour ressortir les points que
 
 Nos principaux objectifs :
 
-Brochure : Nous voulons mettre l'accent sur la présentation de l'organisme et ses services. La brochure est adressée principalement aux autres entreprises pour augmenter le nombre de contrats.
+Brochure : Nous voulons mettre l'accent sur la présentation de l'organisme et ses services. La brochure est adressée principalement aux autres entreprises pour augmenter le nombre de clients.
 
 Dépliant : L'accent est sur la présentation de l'organisme et sur ses activités pour toute la famille. Le public cible est le public général pour les initier à l'agriculture.
 
@@ -42,7 +42,7 @@ Stories : Les stories servent à informer la population générale des rabais du
 
 ## Étape 3
 
-Nous nous sommes rencontrés pour faire un brouillon de nos maquettes filaires (wireframe). Le travail a été séparé : j'étais responsable de faire 3 pages de la brochure ainsi que les stories d'Instagram. La maquette devait s'effectuer sur une feuille de papier 11 x 17 selon des consignes précises. Nous voulions que nos livrables aient une apparence épurée avec l'identité visuelle de l'organisme.
+Nous nous sommes rencontrés pour faire un brouillon de nos maquettes filaires (wireframe). Le travail a été séparé : j'étais responsable de faire 3 pages de la brochure ainsi que les stories d'Instagram. Par respect des droits d'auteurs et de confidentialité, uniquement ma partie sera présentée. Les maquettes devaient se faire sur une feuille de papier 11 x 17 selon des consignes précises. Nous voulions que nos livrables aient une apparence épurée avec l'identité visuelle de l'organisme.
 
 Brochure :
 
@@ -57,7 +57,7 @@ Stories :
 
 ## Étape 4
 
-Nous avons passé dans Figma après la correction de nos maquettes filaires. J'ai pu me familiariser avec l'outil graphique. Les images ont été modifiées pour respecter la confidentialité du client. 
+Après la correction de nos maquettes filaires, nous sommes passés sur Figma. J'ai pu me familiariser avec l'outil graphique. Les images ont été modifiées pour respecter la confidentialité du client. 
 
 Brochure :
 

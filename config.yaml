@@ -143,7 +143,7 @@ params:
     title: "À propos de moi"
     image: "/images/profil/me.jpg"
     content: |-
-      Je suis une bachelière en communication à l'Université Laval. J'ai poursuis un cursus ayant des cours sur la publicité, les relations publiques ainsi que sur le journalisme. 
+      Je suis une bachelière en communication à l'Université Laval. J'ai poursuivis un cursus ayant des cours sur la publicité, les relations publiques ainsi que sur le journalisme. 
       Ces cours m'ont permis de découvrir ce qui me passionne dans le domaine de la communication. 
       Je suis présentement à la recherche d'un emploi en communication à Québec. 
 
@@ -167,7 +167,7 @@ params:
       - job: "Stagiaire en marketing numérique et création de contenu"
         company: "Fédération des coopératives d'alimentation du Québec"
         companyUrl: "https://fcaq.coop/"
-        date: "Mai 2023- Mai 2024"
+        date: "Mai 2024- Août 2024"
         featuredLink:
           enable: false
           name: "View the project"
@@ -175,7 +175,7 @@ params:
         info:
           enable: false      
         content: |
-          J'ai effectué ce stage dans le cadre de mon baccalauréat en communication. J'occupais une variété de tâches pour aider l'équipe.'
+          J'ai effectué ce stage dans le cadre de mon baccalauréat en communication. J'effectuais une variété de tâches pour aider l'équipe.
           
           - Gestion des réseaux sociaux et du calendrier éditorial
           - Gestion de projets
