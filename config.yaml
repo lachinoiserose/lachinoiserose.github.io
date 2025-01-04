@@ -165,7 +165,7 @@ params:
     title: "Expérience professionnelle"
     items:
       - job: "Stagiaire en marketing numérique et création de contenu"
-        company: "Fédération des coopératives d'alimentation du Québec"
+        company: "Fédération des coopératives d alimentation du Québec"
         companyUrl: "https://fcaq.coop/"
         date: "Mai 2024- Août 2024"
         featuredLink:
