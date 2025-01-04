@@ -18,11 +18,11 @@ Tout au long de mon stage, j'ai créé des publications pour les réseaux sociau
 
 ## Contexte
 
-Tout au long de mon stage, j'ai créé des publications pour les réseaux sociaux du mouvement Manger COOP. J'ai principalement utiisé Facebook et Instagram pour créer et publier le contenu. Je me suis également occupée des communications internes de l'organisme. Pour des raisons de confidentialités, les publications créées pour l'interne ne seront pas présentés.
+Tout au long de mon stage, j'ai créé des publications pour les réseaux sociaux du mouvement Manger COOP. J'ai principalement utiisé Facebook et Instagram pour créer et publier le contenu. Je me suis également occupée des communications internes de l'organisme. Pour des raisons de confidentialités, les publications créées pour l'interne ne seront pas présentées.
 
 Au tout début, je devais me familiariser avec la charte graphique et la mission du mouvement Manger COOP pour créer du contenu approprié. Ce fut tout un travail créatif pour bien transmettre les valeurs du mouvement dans les publications. 
 
-Depuis le début de mon stage, ma superviseure mentionnait qu'il était primordial que chaque publication ait de la valeur et qu'elles soient appropriées au public cible de chaque réseau social. J'ai eu l'occasion d'être accompagnée pour mieux saisir la notion de "valeur" dans mon processus créatif. Les commentaires constructifs de mes textes m'ont grandement aidé à progressser. Lorsque j'ai eu l'autorisation de créer les images pour accompagner le texte, cela a grandement aidé mon processus créatif. De plus, à ce moment là, je suis revenue dans mes notes pour revoir l'essence du mouvement et il y a eu un déclic, je comprenais bien la notion de "valeur" que je devais ajouter aux publications. À partir de ce moment, j'avais plus de facilité pour créer mes publications.
+Depuis le début de mon stage, ma superviseure mentionnait qu'il était primordial que chaque publication ait de la valeur et qu'elle soit appropriée au public cible de chaque réseau social. J'ai eu l'occasion d'être accompagnée pour mieux saisir la notion de "valeur" dans mon processus créatif. Les commentaires constructifs de mes textes m'ont grandement aidé à progressser. Lorsque j'ai eu l'autorisation de créer les images pour accompagner le texte, cela a grandement aidé mon processus créatif. De plus, à ce moment là, je suis revenue dans mes notes pour revoir l'essence du mouvement et il y a eu un déclic, je comprenais bien la notion de "valeur" que je devais ajouter aux publications. À partir de ce moment, j'avais plus de facilité pour créer mes publications.
 
 
 
@@ -42,7 +42,7 @@ Je me servais de cet outil pour écrire mes idées et mes brouillons de textes d
 
 Vérification et planification des publications
 Outil : Meta Business
-Cet outil me permettait de remettre un brouillon à ma superviseure et qu'elle puisse le vérifier avant de planifier la publication. J'ai pu me familiariser avec l'outil et mieux comprendre les tâches d'une personne en gestion des réseaux sociaux. De plus, j'ai pu utilisé cet outil pour analyser et mieux comprendre le comportement des utilisateurs. 
+Cet outil me permettait de remettre un brouillon à ma superviseure et qu'elle puisse le vérifier avant de planifier la publication. J'ai pu me familiariser avec l'outil et mieux comprendre les tâches du métier de gestionnaire des réseaux sociaux. De plus, j'ai pu utiliser cet outil pour analyser et mieux comprendre le comportement des utilisateurs. 
 
 ## Exemples de publications
 
