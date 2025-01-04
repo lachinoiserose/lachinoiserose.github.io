@@ -130,7 +130,7 @@ params:
       name: "Curriculum Vitae"
       url: "CV_EJL.pdf"
       download: true
-      newPage: false
+      newPage: true
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
@@ -153,13 +153,11 @@ params:
       title: "Je suis à l'aise avec les langues et les outils suivant:"
       items:
         - "Français (Langue maternelle)"
-        - "Zoom"
+        - "Canva"
         - "Anglais (Intermédiaire-Avancé)"
         - "Suite Office (TEAMS, Word, PowerPoint)"
         - "Notions de base en langue des signes (Français signé)"
         - "Suite Google"
-        - "       "
-        - "Canva"
 
   # Experience
   experience:
