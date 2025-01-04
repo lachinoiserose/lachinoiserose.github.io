@@ -120,7 +120,7 @@ params:
     intro: "Bonjour, je suis"
     title: "Émilie-Jade Larose."
     subtitle: "Elle/She/Her"
-    content: "Je suis une étudiante en communication à l'Université Laval. J'ai un coeur sensible pour les animaux, surtout pour les chats. J'aime passer mes temps libres à me perdre dans les univers de jeux vidéo et dans les mondes cinématographiques. Ce qui m'intéresse davantage dans la communication, c'est le côté publicité et celui des relations publiques."
+    content: "Je suis une bachelière en communication à l'Université Laval. J'ai un coeur sensible pour les animaux, surtout pour les chats. J'aime passer mes temps libres à me perdre dans les univers de jeux vidéo et dans les mondes cinématographiques. Ce qui m'intéresse davantage dans la communication, c'est le côté publicité et celui des relations publiques."
     image: /images/profil/me.jpg
     bottomImage:
       enable: true
@@ -143,9 +143,9 @@ params:
     title: "À propos de moi"
     image: "/images/profil/me.jpg"
     content: |-
-      Je suis une étudiante en communication à l'Université Laval. Je poursuis un cursus ayant des cours sur la publicité, les relations publiques ainsi que sur le journalisme. 
-      Ces cours me permettent de découvrir ce qui me passionne dans le domaine de la communication. 
-      Je suis présentement à la recherche d'un stage en communication à Québec. 
+      Je suis une bachelière en communication à l'Université Laval. J'ai poursuis un cursus ayant des cours sur la publicité, les relations publiques ainsi que sur le journalisme. 
+      Ces cours m'ont permis de découvrir ce qui me passionne dans le domaine de la communication. 
+      Je suis présentement à la recherche d'un emploi en communication à Québec. 
 
        
     skills:
@@ -158,17 +158,18 @@ params:
         - "Suite Office (TEAMS, Word, PowerPoint)"
         - "Notions de base en langue des signes (Français signé)"
         - "Suite Google"
-        - ""
+        - "       "
+        - "Canva"
 
   # Experience
   experience:
     enable: true
     title: "Expérience professionnelle"
     items:
-      - job: "Assistante cheffe d'équipe"
-        company: "Dollarama"
-        companyUrl: "https://www.dollarama.com/fr-CA/"
-        date: "Mai 2023 - à ce jour"
+      - job: "Stagiaire en marketing numérique et création de contenu"
+        company: "Fédération des coopératives d'alimentation du Québec"
+        companyUrl: "https://fcaq.coop/"
+        date: "Mai 2023- Mai 2024"
         featuredLink:
           enable: false
           name: "View the project"
@@ -176,7 +177,26 @@ params:
         info:
           enable: false      
         content: |
-          J'occupe présentement cet emploi durant mes études. Je suis assistante cheffe d'équipe. Cela consiste à gérer le magasin et une petite équipe.
+          J'ai effectué ce stage dans le cadre de mon baccalauréat en communication. J'occupais une variété de tâches pour aider l'équipe.'
+          
+          - Gestion des réseaux sociaux et du calendrier éditorial
+          - Gestion de projets
+          - Aide à la gestion du mouvement Manger COOP
+          - Communication interne
+
+
+      - job: "Assistante cheffe d'équipe"
+        company: "Dollarama"
+        companyUrl: "https://www.dollarama.com/fr-CA/"
+        date: "Mai 2023- Mai 2024"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        info:
+          enable: false      
+        content: |
+          J'ai occupé cet emploi durant mes études. J'étais assistante cheffe d'équipe. Cela consiste à gérer le magasin et une petite équipe.
           
           - S'occuper de la fermeture du magasin
           - Faire la balance des caisses et des coffres
@@ -320,7 +340,7 @@ params:
         school:
           name: "Université Laval, Québec"
           url: "https://www.ulaval.ca/"
-        date: "Sept 2022 - à ce jour"
+        date: "2022-2024"
         content: |-
         
             - Parcours général : Cours sur la publicité, les relations publiques et le journalisme
